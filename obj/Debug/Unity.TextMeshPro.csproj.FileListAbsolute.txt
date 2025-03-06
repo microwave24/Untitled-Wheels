@@ -1,0 +1,2 @@
+C:\Users\there\UntitledWheels\obj\Debug\Unity.TextMeshPro.csproj.CoreCompileInputs.cache
+C:\Users\there\UntitledWheels\obj\Debug\Unity.TextMeshPro.csproj.AssemblyReference.cache
